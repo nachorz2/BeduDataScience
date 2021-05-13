@@ -10,3 +10,5 @@ Repositorio para subir evidencias del curso de Data Science con Bedu/Santander
 [Evidencia Reto 1](https://github.com/nachorz2/BeduDataScience/blob/main/reto1.png)
 
 [Evidencia Reto 2](https://github.com/nachorz2/BeduDataScience/blob/main/reto2.png)
+
+[Evidencia Reto 3](https://github.com/nachorz2/BeduDataScience/blob/main/reto3.png)
