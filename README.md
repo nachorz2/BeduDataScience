@@ -16,7 +16,7 @@ Repositorio para subir evidencias del curso de Data Science con Bedu/Santander
 
 
 <details open>
-<summary>### Sesión 2: Agrupaciones y Subconsultas</summary>
+<title>Sesión 2: Agrupaciones y Subconsultas</title>
 <br>
 [Evidencia Retos Sesión 2](https://github.com/nachorz2/BeduDataScience/blob/main/Retos%20Sesion%202.sql)
 
