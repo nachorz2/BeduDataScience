@@ -6,7 +6,7 @@ Repositorio para subir evidencias del curso de Data Science con Bedu/Santander
 
 <details open>
 <summary>
-### Sesión 1: Fundamentos de SQL
+Sesión 1: Fundamentos de SQL
 </summary>
  <br> 
 
