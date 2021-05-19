@@ -34,7 +34,7 @@ Sesión 1: Fundamentos de SQL
 <summary>Sesión 3: Joins y Vistas</summary>
 <br>
 
-[Evidencia Retos Sesión 3]()
+[Evidencia Retos Sesión 3](https://github.com/nachorz2/BeduDataScience/blob/main/Retos%20Sesion%203%20Ignacio%20Contreras.sql)
 
 [Evidencia Ejercicios Sesión 3](https://github.com/nachorz2/BeduDataScience/blob/main/Ejercicios%20Sesion%203%20Ignacio%20Contreras.sql)
 
