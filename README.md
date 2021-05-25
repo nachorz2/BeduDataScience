@@ -39,3 +39,11 @@ Sesión 1: Fundamentos de SQL
 [Evidencia Ejercicios Sesión 3](https://github.com/nachorz2/BeduDataScience/blob/main/Ejercicios%20Sesion%203%20Ignacio%20Contreras.sql)
 
 </details>
+
+<details>
+ <summary>Sesión 4: Configuración Bases de Datos Locales </summary>
+ <br>
+ 
+ [Evidencia Ejercicios Sesión 4](https://github.com/nachorz2/BeduDataScience/blob/main/ejerciciosesion4.png)
+
+</details>
