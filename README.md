@@ -47,3 +47,12 @@ Sesión 1: Fundamentos de SQL
  [Evidencia Ejercicios Sesión 4](https://github.com/nachorz2/BeduDataScience/blob/main/ejerciciosesion4.png)
 
 </details>
+
+<details>
+ <summary>Sesión 5: Consultas en MongoDB </summary>
+ <br>
+ [Evidencia Ejercicios Sesión 5] (https://github.com/nachorz2/BeduDataScience/blob/main/Ejercicios_sesion5)
+ 
+ </details> 
+ 
+ 
