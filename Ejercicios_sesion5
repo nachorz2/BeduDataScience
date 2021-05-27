@@ -1,0 +1,136 @@
+#Consulta 1
+{
+ project: {
+  email_address: 1,
+  phone_number: 1
+ }
+}
+#Consulta 2
+{
+ project: {
+  class_id: 1
+ }
+}
+#Consulta 3
+{
+ filter: {
+  founded_month: 10
+ },
+ project: {
+  name: 1
+ }
+}
+#Consulta 4
+{
+ filter: {
+  founded_year: 2008
+ },
+ project: {
+  name: 1
+ }
+}
+#Consulta 5
+{
+ filter: {
+  author: 'machine'
+ }
+}
+#Consulta 6
+{
+ filter: {
+  class_id: {
+   $in: [
+    357,
+    57,
+    465
+   ]
+  }
+ }
+}
+#Consulta 7
+{
+ filter: {
+  founded_month: 10,
+  founded_year: 2008
+ },
+ project: {
+  name: 1,
+  founded_month: 1,
+  founded_year: 1
+ }
+}
+#Consulta 8
+{
+ filter: {
+  number_of_employees: {
+   $gte: 51
+  }
+ },
+ project: {
+  name: 1,
+  number_of_employees: 1
+ }
+}
+#Consulta 9
+{
+ filter: {
+  $and: [
+   {
+    stops: {
+     $gte: 1
+    }
+   },
+   {
+    stops: {
+     $lte: 5
+    }
+   }
+  ]
+ }
+}
+#Consulta 10
+{
+ filter: {
+  number_of_employees: {
+   $ne: null
+  }
+ },
+ project: {
+  name: 1,
+  number_of_employees: 1
+ },
+ sort: {
+  number_of_employees: 1
+ },
+ limit: 1
+}
+#Consulta 11
+{
+ filter: {
+  number_of_employees: {
+   $ne: null
+  }
+ },
+ project: {
+  name: 1,
+  number_of_employees: 1
+ },
+ sort: {
+  number_of_employees: -1
+ },
+ limit: 1
+}
+#Consulta 12
+{
+ sort: {
+  tripduration: 1
+ },
+ limit: 1
+}
+#Consulta 13
+{
+ sort: {
+  tripduration: -1
+ },
+ limit: 1
+}
