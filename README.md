@@ -61,7 +61,7 @@ Sesión 1: Fundamentos de SQL
  <summary>Sesión 6: Consultas en MongoDB </summary>
  <br>
  
- [Evidencia Retos Sesión 6]()
+ [Evidencia Retos Sesión 6](https://github.com/nachorz2/BeduDataScience/blob/main/reto3_sesion6.png)
  
  [Evidencia Ejercicios Sesión 6](https://github.com/nachorz2/BeduDataScience/blob/main/ejerciciosesion6.png)
  
