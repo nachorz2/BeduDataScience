@@ -71,7 +71,7 @@ Sesión 1: Fundamentos de SQL
  <summary>Sesión 7: Agregaciones </summary>
  <br>
  
- [Evidencia Retos Sesión 7]()
+ [Evidencia Retos Sesión 7](https://github.com/nachorz2/BeduDataScience/blob/main/reto3_sesion7.png)
  
  [Evidencia Ejercicios Sesión 7]()
  
