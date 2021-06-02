@@ -1,6 +1,6 @@
 # BeduDataScience
 Repositorio para subir evidencias del curso de Data Science con Bedu/Santander
-
+<details>
 ## Fase 1 : Introducción a Bases de Datos
 
 
@@ -76,3 +76,4 @@ Sesión 1: Fundamentos de SQL
  [Evidencia Ejercicios Sesión 7](https://github.com/nachorz2/BeduDataScience/blob/main/ejercicio_S7.png)
  
  </details> 
+ </details>
