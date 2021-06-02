@@ -67,3 +67,12 @@ Sesión 1: Fundamentos de SQL
  
  </details> 
  
+ <details>
+ <summary>Sesión 7: Agregaciones </summary>
+ <br>
+ 
+ [Evidencia Retos Sesión 7]()
+ 
+ [Evidencia Ejercicios Sesión 7]()
+ 
+ </details> 
