@@ -73,6 +73,6 @@ Sesión 1: Fundamentos de SQL
  
  [Evidencia Retos Sesión 7](https://github.com/nachorz2/BeduDataScience/blob/main/reto3_sesion7.png)
  
- [Evidencia Ejercicios Sesión 7]()
+ [Evidencia Ejercicios Sesión 7](https://github.com/nachorz2/BeduDataScience/blob/main/ejercicio_S7.png)
  
  </details> 
